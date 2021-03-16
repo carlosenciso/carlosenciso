@@ -1,4 +1,4 @@
-<img src="https://github.com/carlosenciso/carlosenciso/blob/main/game.gif" width="420" height="180" />
+<img src="https://github.com/carlosenciso/carlosenciso/blob/main/game.gif" width="1000" height="250" />
 
 <!--
 **carlosenciso/carlosenciso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
