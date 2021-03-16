@@ -1,4 +1,4 @@
-![image](https://github.com/carlosenciso/carlosenciso/blob/main/cover4.gif)
+![image](https://github.com/carlosenciso/carlosenciso/blob/main/cover6.gif)
 
 <!--
 **carlosenciso/carlosenciso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
